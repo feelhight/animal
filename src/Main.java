@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        Cat cat = new Cat();
-        cat.sleep();
+        Dog dog = new Dog();
+        dog.sleep();
     }
 }
